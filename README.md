@@ -2,7 +2,7 @@
 
 **`Estudante de ADS`**
 
-Me chamo Samuel Azevedo , tenho 20 anos e sou natural de Santos . Concluí o ensino médio no  E.E Mario Covas Junior Governador,. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio . Sou apaixonado por tecnologia.
+Me chamo Samuel Azevedo , tenho 20 anos e sou natural de Santos . Concluí o ensino médio no  E.E Mario Covas Junior Governador. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio . Sou apaixonado por tecnologia.
 
 
         
